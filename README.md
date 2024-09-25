@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+this is cici
+- 🔭 I’m currently working on LLM inference...
+- 🌱 I’m currently learning Parallel Programming, HPC, ai infra...
+- 🏃 I’m looking for job searching ...
 <!--
 **Celine-Luo/Celine-Luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
